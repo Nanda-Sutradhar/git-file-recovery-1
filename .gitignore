@@ -1,2 +1,8 @@
-.git
-.env
+# Ignore files ending with .in
+*.in
+
+# Ignore files ending with .out
+*.out
+
+# Ignore compiled Python files
+*.pyc
